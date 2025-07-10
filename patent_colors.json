@@ -1,0 +1,103 @@
+[
+  {
+    "url": "https://patents.google.com/patent/USPP36186P2/en",
+    "flesh": {
+      "color": "Color .—Varies from 2.5Y 8/10 to 5Y 8/8.",
+      "munsell": [
+        "2.5Y 8/10",
+        "5Y 8/8"
+      ],
+      "rhs": []
+    },
+    "skin": {
+      "color": "Color .—Ground color varies from 7.5Y 8/6 to 10Y 8/4.-Overspread with 5R 2/4 to 7.5R 3/8. Very small, randomly spaced areas of ground color exposed to give a speckling pattern to surface areas.",
+      "munsell": [
+        "7.5Y 8/6",
+        "10Y 8/4",
+        "5R 2/4",
+        "7.5R 3/8"
+      ],
+      "rhs": []
+    }
+  },
+  {
+    "url": "https://patents.google.com/patent/USPP35196P2/en",
+    "flesh": {
+      "color": "Color .—Varies from 5R 3/8 to 5R 3/6.",
+      "munsell": [
+        "5R 3/8",
+        "5R 3/6"
+      ],
+      "rhs": []
+    },
+    "skin": {
+      "color": "Color .—Ground color varies from 2.5Y 8.5/4 to 5Y 8/4. Overspread with 5R 3/6 to 7.5R 3/6. Very small, randomly spaced areas of exposed ground color giving a speckled pattern to the surface.",
+      "munsell": [
+        "5Y 8/4",
+        "5R 3/6",
+        "7.5R 3/6"
+      ],
+      "rhs": []
+    }
+  },
+  {
+    "url": "https://patents.google.com/patent/USPP35178P2/en",
+    "flesh": {
+      "color": "Color .—Varies from 2.5R 4/10 to 5R 4/10.",
+      "munsell": [
+        "2.5R 4/10",
+        "5R 4/10"
+      ],
+      "rhs": []
+    },
+    "skin": {
+      "color": "Color .—Ground color varies from 2.5Y 8.5/6 to 2.5Y 8/6. Overspread with 2.5R 3/6 to 5R 2/6.",
+      "munsell": [
+        "2.5Y 8/6",
+        "2.5R 3/6",
+        "5R 2/6"
+      ],
+      "rhs": []
+    }
+  },
+  {
+    "url": "https://patents.google.com/patent/USPP34290P2/en",
+    "flesh": {
+      "color": "Color.— Varies from 5R 4/8 to 2.5Y 8.5/4.",
+      "munsell": [
+        "5R 4/8"
+      ],
+      "rhs": []
+    },
+    "skin": {
+      "color": "Color.— Ground color varies from 7.5Y 8/4 to 7.5Y 7/4. Overspread with 5R 3/4 to 7.5R 3/4. Very small randomly spaced areas of ground color exposed to give a speckling pattern to surface areas.",
+      "munsell": [
+        "7.5Y 8/4",
+        "7.5Y 7/4",
+        "5R 3/4",
+        "7.5R 3/4"
+      ],
+      "rhs": []
+    }
+  },
+  {
+    "url": "https://patents.google.com/patent/USPP34426P2/en",
+    "flesh": {
+      "color": "Color .—Varies from 7.5R 3/12 to 7.5R 2/8.",
+      "munsell": [
+        "7.5R 3/12",
+        "7.5R 2/8"
+      ],
+      "rhs": []
+    },
+    "skin": {
+      "color": "Color .—Ground color varies from 7.5Y 8.5/10 to 7.5Y 8/6. Overspread with 7.5R 3/10 to 7.5R 2/8. Very small, randomly spaced areas of exposed ground color giving a speckled pattern to the surface.",
+      "munsell": [
+        "7.5Y 8/6",
+        "7.5R 3/10",
+        "7.5R 2/8"
+      ],
+      "rhs": []
+    }
+  }
+]
